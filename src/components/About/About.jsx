@@ -62,6 +62,7 @@ const About = () => {
           >
             DOWNLOAD CV 
           </a>
+          <br></br>
 
          { /*  Video CV */}
 
